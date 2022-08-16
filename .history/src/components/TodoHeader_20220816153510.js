@@ -1,0 +1,1 @@
+import { StyleSheet, Text, Vie } from 'react-native;'
